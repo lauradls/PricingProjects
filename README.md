@@ -12,7 +12,11 @@ This repository contains two pricing projects that were self-initiated on topics
 ### **2) Odd Ratios of Price Expectations**
 
 
-**Data Source:**
 
 
-**Summary**:
+**Summary**:  and analyzed results data to recommend improvements to printing services
+• Using SAS, calculated odds ratios of students’ and faculty’s price expectation on poster printing
+
+**Data Source:** After my "Design of Experiments" class, I followed ethical and statistical principles to design surveys and interview questionnaries that would not compromise the data. This helps avoid the bias of the designer to be inserted into the results. 
+
+
