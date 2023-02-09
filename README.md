@@ -9,7 +9,7 @@ This repository contains two pricing projects that were self-initiated on topics
 **Data Source:** I designed a survey and promoted it on campus to gather people's willingness to pay. Additionally, I researched and analyzed historical pricing data on these goods. 
 
 
-### ** 2) Odd Ratios of Price Expectations**
+### **2) Odd Ratios of Price Expectations**
 
 
 **Data Source:**
