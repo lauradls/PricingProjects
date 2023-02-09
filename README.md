@@ -11,12 +11,8 @@ This repository contains two pricing projects that were self-initiated on topics
 
 ### **2) Odd Ratios of Price Expectations**
 
+**Summary**:  The professional goal of this research was to determine the value of the built-in benefits offered by the poster printing service located at the Utah State University (USU) Engineering Computer Lab. The data obtained helped formed different personas within the framework of customer segmentation. From these, I also calculated how much likely is type of customer of thinking prices within the lab are cheaper than outside, compared to what other type of customer thinks. From these, recommendations regarding revamping the pricing strategy and offering other additional services came out. 
 
-
-
-**Summary**:  and analyzed results data to recommend improvements to printing services
-• Using SAS, calculated odds ratios of students’ and faculty’s price expectation on poster printing
-
-**Data Source:** After my "Design of Experiments" class, I followed ethical and statistical principles to design surveys and interview questionnaries that would not compromise the data. This helps avoid the bias of the designer to be inserted into the results. 
+**Data Source:** After my "Design of Experiments" class, I followed ethical and statistical principles to design surveys and interview questionnaries that would not compromise the data. This helps avoid the bias of the designer to be inserted into the results. The data was collected through online surveys and face-to-face interviews in June 2017. The target audience of respondents was determined by analyzing which departments are customers from and what was the purpose of the posters, this data is available in PostMaster. I did market research on the competition, including their pricing. 
 
 
